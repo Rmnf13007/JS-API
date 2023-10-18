@@ -1,0 +1,18 @@
+{
+    "fruits": [
+        {
+            "kiwi": "green",
+            "mango": "yellow",
+            "apple": null
+        },
+        {
+            "panier": null
+        }
+     
+    ],
+    "legumes": {
+        "carrot": "orange",
+        "tomato": "red",
+        "lettuce": "green"
+    }
+}
